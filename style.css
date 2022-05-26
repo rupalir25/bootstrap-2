@@ -6,6 +6,7 @@
     background-image: url(bcg1.jpg);
     height: 80vh;
     background-repeat: no-repeat;
+    width: 100%;
 }
 
 .nav {
